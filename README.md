@@ -4,6 +4,12 @@
 This project focuses on cleaning and preparing a raw movie dataset containing over **10,000 records** using **Microsoft Excel**.  
 The goal is to transform messy, inconsistent, and incomplete data into a structured, analysis-ready format for further **Exploratory Data Analysis (EDA)**.
 
+## ⚠️ Disclaimer
+Before performing **EDA (Exploratory Data Analysis)**, please **recheck the dataset**.  
+Although extensive cleaning has been performed, complex datasets may still contain subtle inconsistencies, missing values, or format variations that cannot be fully automated.  
+It is recommended to **validate and cross-check the cleaned data from your end** before proceeding with analysis.
+
+
 ---
 
 ## 🧹 Data Cleaning Approach
