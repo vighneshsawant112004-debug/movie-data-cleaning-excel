@@ -66,7 +66,7 @@ Blank or missing entries in the **Genre** column were replaced with **“Unknown
 | **Genre** | `Unknown` | Genre missing |
 | **Rating** | `0` | Not rated / missing (numeric consistency) |
 | **Votes** | `0` | No votes recorded |
-| **Runtime** | `N/A` | Runtime unavailable |
+| **Runtime** | `0` | Runtime unavailable |
 | **Gross** | `0 = Not Disclosed` | Gross not shared |
 | **Director / Stars** | `Unknown` | Information missing |
 
